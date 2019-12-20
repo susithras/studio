@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="scope choice">b6273912db35c8105cacd604ce961992</application>
+        <filter/>
+        <name>scope choice Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_scope_choice.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>susithra.sundaresan@snc</sys_created_by>
+        <sys_created_on>2019-12-20 19:15:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe273912db35c8105cacd604ce961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope choice Table</sys_name>
+        <sys_package display_value="scope choice" source="x_snc_scope_choice">f52779dedbf1c8105cacd604ce9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scope choice">f52779dedbf1c8105cacd604ce9619ad</sys_scope>
+        <sys_update_name>sys_ui_module_fe273912db35c8105cacd604ce961994</sys_update_name>
+        <sys_updated_by>susithra.sundaresan@snc</sys_updated_by>
+        <sys_updated_on>2019-12-20 19:15:18</sys_updated_on>
+        <table>x_snc_scope_choice_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
