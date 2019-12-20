@@ -2,7 +2,7 @@
     <element label="scope choice Table" max_length="40" name="x_snc_scope_choice_table" type="collection">
         <element choice="1" label="Test choice" max_length="40" name="test_choice" type="choice">
             <choice>
-                <element inactive_on_update="false" label="c1" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="c1" value="1.1"/>
                 <element inactive_on_update="false" label="c2" value="2"/>
                 <element inactive_on_update="false" label="c3" value="3"/>
             </choice>

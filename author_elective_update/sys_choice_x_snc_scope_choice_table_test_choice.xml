@@ -4,7 +4,7 @@
             <dependent_value/>
             <element>test_choice</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>c1</label>
             <language>en</language>
             <name>x_snc_scope_choice_table</name>
@@ -14,10 +14,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7cc7fd52db35c8105cacd604ce961947</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>susithra.sundaresan@snc</sys_updated_by>
-            <sys_updated_on>2019-12-20 19:18:01</sys_updated_on>
-            <value>1</value>
+            <sys_updated_on>2019-12-20 22:15:59</sys_updated_on>
+            <value>1.1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
